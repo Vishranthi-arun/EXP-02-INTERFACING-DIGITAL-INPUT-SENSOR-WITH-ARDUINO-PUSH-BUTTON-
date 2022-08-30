@@ -12,8 +12,11 @@ To interface a digital input (push button) and blink and LED upon activation.
 ## THEORY :
 ```
 Arduino UNO
- 	  The Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
-	Technical specifications of Arduino UNO :
+ 	  The Uno is a microcontroller board based on the ATmega328P. 
+It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal,
+a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller;
+simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
+Technical specifications of Arduino UNO :
 Microcontroller	ATmega168/328
 Microcontroller	ATmega168/328
 Operating Voltage	5V
@@ -72,7 +75,13 @@ void loop()
   }
 }
 ```
-## Output of the simulation :
+## Output :
+### Before simulation:
+![befo](https://user-images.githubusercontent.com/93427278/187446722-0b32c95b-843d-4af3-82fc-40b74288fc62.png)
+
+### After simulation:
 ![aftr](https://user-images.githubusercontent.com/93427278/187445525-7bb65618-7c0a-4014-8d19-bc98dea7bd42.png)
 
+## Result:
+Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
 
