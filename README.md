@@ -3,12 +3,14 @@
 ## AIM: 
 To interface a digital input (push button) and blink and LED upon activation.
 ## COMPONENTS REQUIRED:
+```
 1.1 KΩ Resistor 
 2.Arduino Uno 
 3.Bread board 
 4.USB Interfacing cable 
 5.Jumper wires 
 6.LED of choice 
+```
 ## THEORY :
 ```
 Arduino UNO
